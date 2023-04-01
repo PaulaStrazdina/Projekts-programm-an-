@@ -20,3 +20,5 @@ if a in notik:
             break
         if jane == 'Nē':
             break        
+else:
+    print("Datums nav atbilstošs, mēģini to ievadīt vēlreiz.")
