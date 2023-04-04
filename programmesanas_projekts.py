@@ -11,7 +11,7 @@ if a in dat:
             break
         if jane == 'Nē':
             break
-if a in notik:
+elif a in notik:
     print(dat[notik.index(a)])
     while True:
         jane=(input("Vai vēlies uzzināt vairāk par šo notikumu? Ievaid 'Jā' vai 'Nē'!"))
