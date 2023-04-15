@@ -1,5 +1,5 @@
-dat=['19.06.1919','18.11.1918']
-notik=["Cēsu kaujas",'Latvijas Republikas proklamēšanas diena']
+dat=['19.06.1919','18.11.1918','17.06.1940','14.06.1940','25.03.1949','14.06.1987 - 06.09.1991','04.05.1990','13.01.1991 - 27.01.1991','23.08.1939','23.08.1989','17.03.1944']
+notik=["Cēsu kaujas",'Latvijas Republikas proklamēšanas diena','Latvijas Republikas okupācijas diena','1941. gada jūnija deportācijas Latvijā','1949. gada 25. marta deportācija Latvijā','Dziesmotā revolūcija','Latvijas Republikas Neatkarības atjaunošanas diena','Barikāžu laiks','Molotova-Ribentropa pakts','Baltijas ceļš','Nacionālās pretošanās kustības piemiņas diena']
 notikaprak=['Cēsu kaujas bija viens no nozīmīgākajiem pavērsiena punktiem Latvijas Neatkarības kara gaitā. Kaujas noslēdzās ar Igaunijas armijas un Ziemeļlatvijas brigādes pārliecinošu uzvaru.','Latvijas Tautas padomes (LTP) formāls solis 1918. gada 18. novembrī, ar kuru suverēnā valsts vara Latvijā pārgāja LTP rokās un tika dibināta neatkarīga valsts']
 a=(input("Ievadi datumu(dd.mm.gggg) vai notikumu(piem. Cēsu kaujas) par kuru vēlies uzzināt! - "))
 if a in dat:
