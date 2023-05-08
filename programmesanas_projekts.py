@@ -24,7 +24,7 @@ while True:
              if jane == 'Nē':
                  break        
      else:
-         print("Datums nav atbilstošs, mēģini to ievadīt vēlreiz.")
+         print("Datums/notikums nav atbilstošs, mēģini to ievadīt vēlreiz.")
          break
 
  print("Paldies, ka izmantoji mūsu programmu! Ja vēlies pievienot papildus datumus nākamajā jautājumā atbildi ar 'Jā'!")
